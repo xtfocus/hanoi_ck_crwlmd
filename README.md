@@ -1,4 +1,4 @@
-# A small tricks to get geo-spatial data from google map
+# A small trick to scrape geo-spatial data from Google map
 Coverage:
 <ul>
     <li> Parsing json
@@ -6,4 +6,4 @@ Coverage:
     <li> regex
 </ul>
 
-This is not my original idea, and I just do it for fun and to brush up my coding. This is just for educational purposes, and I by no means intend to violate google ToS.
+This is not my original idea, and I just dit it for fun and to brush up my coding. This is just for educational purposes, and I by no means intend to violate Google ToS.
