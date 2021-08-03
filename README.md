@@ -1,5 +1,6 @@
 # A small tricks to get geo-spatial data from google map
 Coverage:
+
     - Parsing 
     - Basic Python programming
 
